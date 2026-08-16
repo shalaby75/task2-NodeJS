@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 25000,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mouse",
+    "price": 900,
+    "category": "Gaming"
+  },
+  {
+    "id": 3,
+    "name": "Keyboard",
+    "price": 1200,
+    "category": "Electronics"
+  }
+]
